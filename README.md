@@ -2,7 +2,7 @@
 
 Kumusta!  I'm Joseph. I'm a UKRI CDT Doctoral Researcher at the University of Bath's Integrated Ph.D. Program in Accountable, Responsible, and Transparent AI (also called ART-AI). I conduct research in NLP specifically in the areas of text complexity, language generation, and low-resource evaluation. 
 
-Please visit my [website]([https://www.example.com](https://www.josephimperial.com/)) for more information.
+Please visit my [website]([[https://www.example.com](https://www.josephimperial.com/)]) for more information.
 <!--
 **imperialite/imperialite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
