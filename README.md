@@ -1,6 +1,6 @@
-# Doctoral Researcher in Responsible AI and Natural Language Processing 
+# Doctoral Researcher in Responsible AI and Natural Language Processing 🧑‍💻
 
-Kumusta!  I'm Joseph. I'm a UKRI CDT Doctoral Researcher at the University of Bath's Integrated Ph.D. Program in Accountable, Responsible, and Transparent AI (also called ART-AI). I conduct research in NLP specifically in the areas of text complexity, language generation, and low-resource evaluation. 
+Kumusta!  I'm Joseph. I'm a Doctoral Researcher at the UKRI Center for Doctoral Training in Accountable, Responsible, and Transparent AI (also called ART-AI) at the University of Bath. I conduct research in NLP specifically in the areas of text complexity, language generation, and low-resource corpus building and evaluation. 
 
 Please visit my [website](https://www.josephimperial.com/) for more information.
 <!--
