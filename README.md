@@ -2,7 +2,8 @@
 
 Kumusta!  I'm Joseph. I'm a Doctoral Researcher at the UKRI Center for Doctoral Training in Accountable, Responsible, and Transparent AI (also called ART-AI) at the University of Bath. I conduct research in NLP specifically in the areas of text complexity, language generation, and low-resource corpus building and evaluation. Before moving to the British countryside of Bath 🇬🇧, I previously resided in Manila, Philippines 🇵🇭 where I finished my MS in Computer Science at De La Salle University and my BS at Bicol University.
 
-### Contact
+## Contact
+---
 Please visit my [website](https://www.josephimperial.com/) for more information on my research engagements, projects, and other stuff. <br>
 I'm also very active on Twitter 🐦. Let's follow each other at [@josephimperial_](https://twitter.com/josephimperial_).
 
