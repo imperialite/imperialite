@@ -1,8 +1,11 @@
-# Doctoral Researcher in Responsible AI and Natural Language Processing 🧑‍💻
+## Doctoral Researcher in Responsible AI and Natural Language Processing 🧑‍💻
 
-Kumusta!  I'm Joseph. I'm a Doctoral Researcher at the UKRI Center for Doctoral Training in Accountable, Responsible, and Transparent AI (also called ART-AI) at the University of Bath. I conduct research in NLP specifically in the areas of text complexity, language generation, and low-resource corpus building and evaluation. 
+Kumusta!  I'm Joseph. I'm a Doctoral Researcher at the UKRI Center for Doctoral Training in Accountable, Responsible, and Transparent AI (also called ART-AI) at the University of Bath. I conduct research in NLP specifically in the areas of text complexity, language generation, and low-resource corpus building and evaluation. Before moving to the British countryside of Bath 🇬🇧, I previously resided in Manila, Philippines 🇵🇭 where I finished my MS in Computer Science at De La Salle University and my BS at Bicol University.
 
-Please visit my [website](https://www.josephimperial.com/) for more information.
+### Contact
+Please visit my [website](https://www.josephimperial.com/) for more information on my research engagements, projects, and other stuff.
+I'm also very active on Twitter 🐦. Let's follow each other at [@josephimperial_](https://twitter.com/josephimperial_).
+
 <!--
 **imperialite/imperialite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
